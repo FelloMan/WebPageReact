@@ -1,0 +1,30 @@
+.github-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.github-heading {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.github-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.github-list-item {
+  margin-bottom: 10px;
+}
+
+.github-link {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+.github-link:hover {
+  text-decoration: underline;
+}
